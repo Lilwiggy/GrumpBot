@@ -1,0 +1,11 @@
+{
+    "bot":{
+        "token": ""   
+    }, "sql": {
+        "username": "",
+        "host": "",
+        "password": "",
+        "db_name": ""
+
+    }
+    }
